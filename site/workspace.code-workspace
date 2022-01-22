@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\..\\fullstack-course4"
 		}
 	],
 	"settings": {}
